@@ -17,9 +17,9 @@ Esse projetinho faz parte do bootcamp **everis FullStack Developer** na platafor
 
 #### Referências
 
-https://web.digitalinnovation.one/home
-https://fontawesome.com/
-https://owlcarousel2.github.io/OwlCarousel2/
+- https://web.digitalinnovation.one/home
+- https://fontawesome.com/
+- https://owlcarousel2.github.io/OwlCarousel2/
 
 ---
 Codado por Willams "osdeving" Sousa
