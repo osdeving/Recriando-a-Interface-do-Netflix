@@ -13,7 +13,7 @@ Esse projetinho faz parte do bootcamp **everis FullStack Developer** na platafor
 
 ### Aí vai uma print
 
-/![print](https://github.com/osdeving/netflix-home-page-clone/blob/master/netflix.jpg?raw=true)
+/![print](https://github.com/osdeving/Recriando-a-Interface-do-Netflix/blob/master/netflix.jpg?raw=true)
 
 #### Referências
 
